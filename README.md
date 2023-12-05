@@ -1,2 +1,2 @@
 # Sistema-de-Inventario-Ciclico
-Sistema de inventário cíclico
+Sistema de inventário cíclico.
