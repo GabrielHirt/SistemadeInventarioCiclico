@@ -8,7 +8,7 @@ Realizar a amostragem de materiais a serem inventariados periodicamente, conside
 ### Linguagem Utilizada
 Visual Basic for Application (VBA) </br>
 ## Descrição Detalhada do Sistema
-
+O sistema irá possuir dois modos de uso, sendo eles o modo manual e automático. </br>
 ### Modo Manual
 O modo manual é utilizado para momentos em que apenas um depósito precise ser inventariado. Uma lista está disponível para que o depósito desejado seja selecionado antes de inciciar o processo. </br>
 ![image](https://github.com/GabrielHirt/Sistema-de-Inventario-Ciclico/assets/98654562/9025c4fe-82af-4675-87a1-0e3d6477b9e0)
