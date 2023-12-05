@@ -3,7 +3,7 @@ Sistema de inventário cíclico.
 
 
 ### Objetivo 
-Auxiliar com um processo rápido de seleção de itens de forma periódica. Assim, objetiva que empresas não precisem parar suas atividades em virtude de um processo de inventário. </br>
+Realizar a amostragem de materiais a serem inventariados periodicamente, considerando o tempo do período entre cada inventário para cada depósito, critério de não repetição de itens e critério de auditoria completa de materiais dentro do exercício (ano). </br>
 
 ### Linguagem Utilizada
 Visual Basic for Application (VBA) </br>
