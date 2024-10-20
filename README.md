@@ -1,5 +1,5 @@
 # Sistema-de-Inventario-Ciclico
-Sistema de inventário cíclico.
+Automação para Sistema de inventário cíclico.
 
 
 ### Objetivo  📋
