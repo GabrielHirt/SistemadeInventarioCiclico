@@ -2,22 +2,22 @@
 Sistema de inventário cíclico.
 
 
-### Objetivo 
+### Objetivo  📋
 Realizar a amostragem de materiais a serem inventariados periodicamente, considerando o tempo do período entre cada inventário para cada depósito, critério de não repetição de itens e critério de auditoria completa de materiais dentro do exercício (ano). </br>
 
-### Linguagem Utilizada
+### Linguagem Utilizada 📚
 Visual Basic for Application (VBA) </br>
 ## Descrição Detalhada do Sistema
 O sistema irá possuir dois modos de uso, sendo eles o modo manual e automático. </br>
-### Modo Manual
+### Modo Manual ⚙️
 O modo manual é utilizado para momentos em que apenas um depósito precise ser inventariado. Uma lista está disponível para que o depósito desejado seja selecionado antes de inciciar o processo. </br>
 ![image](https://github.com/GabrielHirt/Sistema-de-Inventario-Ciclico/assets/98654562/9025c4fe-82af-4675-87a1-0e3d6477b9e0)
 
-### Modo Automático
+### Modo Automático ⚙️
 O modo automático é utilizado para que todos os depósitos sejam inventariados de uma única vez. </br>
 ![image](https://github.com/GabrielHirt/Sistema-de-Inventario-Ciclico/assets/98654562/64d86459-1b0c-429f-9ff4-b3eca75abe35)
 
-### Lógica do Sistema
+### Lógica do Sistema 🛠️
 O sistema foi feito com o objetivo de realizar um inventário semanal para cada depósito existente. Para cada depósito dependendo da quantidade de itens presentes, irá selecionar de forma aleatória um número de itens, de forma que, ao final do mês ou ano, aquele estoque esteja zerado.
 Estoques neste caso poderão ser inventáriados por:
 - Dia.
